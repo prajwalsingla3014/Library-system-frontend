@@ -1,0 +1,95 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body
+{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-image:linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url(lrc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.signup
+{
+    width:280px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    color:white;
+}
+.signup h1
+{
+    float:left;
+    font-size: 35px;
+    border-bottom: 3px solid #FF9C5B;
+    margin-bottom: 50px;
+    padding:7px 0;
+}
+.signup h4
+{
+    float:left;
+    font-size:13.7px;
+    margin-bottom: 0px;
+    margin-top:-29px;
+    padding:7px 0;
+}
+.text1
+{
+    width:100%;
+    overflow:hidden;
+    font-size: 20px;
+    padding:6px 0;
+    margin:5px 0;
+    border-bottom: 1.3px solid #FF9C5B;
+}
+.text1 i
+{
+    width:26px;
+    float:left;
+    text-align: center;
+}
+.text1 input
+{
+    border:none;
+    outline:none;
+    background: none;
+    color:white;
+    font-size: 18px;
+    width:80%;
+    float: left;
+    margin:0 10px;
+}
+#gen
+{
+    margin-left: -20px;
+    float: left;
+    margin-top: 5px;
+}
+#ma
+{
+    color:white;
+    font-size:18px;
+    margin-left: -225px;   
+}
+.btn
+{
+    width:100%;
+    background:none;
+    border:2px solid #FF9C5B;
+    color:white;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-size:18px;
+    cursor: pointer;
+    margin:12px 0;
+    outline: none;
+}
+.signup a
+{
+    text-decoration: none;
+    font-size:15px;
+    line-height: 22px;
+    color:#FF9C5B;
+}
+

@@ -1,0 +1,47 @@
+body
+{
+    margin:0;
+    padding:0;
+    font-family: serif;
+    background-image:linear-gradient(rgba(0,0,0,0.65),rgba(0,0,0,0.65)),url(lrc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1
+{
+	text-align:center;
+	margin-top: 100px;
+    margin-left:-5px;
+    color:white;
+    text-transform: uppercase;
+}
+.demo{
+	margin-top: 150px;
+	margin-left: 500px;
+}
+.demo1{
+	border: 1px solid white;
+	border-radius: 1rem;
+	text-decoration: none;
+	padding :10px 30px;
+	color:white;
+	margin-right: 5px;
+	font-size:23px;
+	text-transform: uppercase;
+}
+.demo2
+{
+	font-family:"Ultra", serif;
+}
+.demo3
+{
+	font-family:"Ultra", serif;
+}
+.demo2:hover
+{
+	background-color: #C48F65;
+}
+.demo3:hover
+{
+	background-color: #C48F65 ;
+}
