@@ -8,6 +8,8 @@ body
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/* signup orm is needed by every social network site . here it is for the students to signup with their library cards into the portal.*/
 .signup
 {
     width:280px;
