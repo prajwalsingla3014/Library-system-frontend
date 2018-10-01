@@ -37,7 +37,7 @@ body
 }
 .text1
 {
-    width:50%;                              /* yeh 100% tha*/
+    width:100%;                              /* yeh 100% tha*/
     overflow:hidden;
     font-size: 20px;
     padding:6px 0;
